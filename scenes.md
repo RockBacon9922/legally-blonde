@@ -48,6 +48,9 @@
   
 ### S6: Salon
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/5a157047-9803-4fa9-830a-88750923d176" />
+<img height="200" alt="Screenshot 2026-09-23 at 15 46 21" src="https://github.com/user-attachments/assets/5e2fb966-9a6a-41ed-8a77-70b4d8c3cbe1" />
+<img height="200" alt="Screenshot 2026-09-23 at 15 46 43" src="https://github.com/user-attachments/assets/05ee757e-6c35-4bf1-9347-5ce654112576" />
+
 
   - Photo of rufus the dog
 ### S7: Harvard Law Party  
