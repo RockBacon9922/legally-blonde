@@ -38,6 +38,16 @@
 ### S8: Outside the Law Party
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/22b87451-bbb3-4f6d-9acd-673c4aa9d697" />
 
+### S9: Dewey's Trailer
+- Dog
+
+
+-- this includes so much better
+  -- Elle Woods in letters at the end of act 1
+
+### S10: Whipped into Shape
+
+
 
 
 ## Characters
