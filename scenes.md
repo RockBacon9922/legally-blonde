@@ -47,7 +47,18 @@
 
 ### S10: Whipped into Shape
 
+### S11: Paulette's Salon
+- Kyle
+- 🎵 Bend and Snap
 
+### S12: Callahan's Office
+- Kiss Scene
+
+### S13: Paulette's Salon
+- Kyle walking rufus in
+- Vivienne reveals herself from beneath a hair dryer, overheard this.
+
+### S14: 
 
 
 ## Characters
