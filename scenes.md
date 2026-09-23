@@ -4,39 +4,39 @@
 ## Locations
 
 ### S1: Sorority House
-<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/42a16c6a-0f97-40bd-9bf8-0ab96b2a4d2b" />
-<img width="1486" height="836" alt="image" src="https://github.com/user-attachments/assets/c92302d3-a162-461a-8580-3b1f1bf18499" />
-<img width="1468" height="936" alt="image" src="https://github.com/user-attachments/assets/6bb7d359-551e-46d8-b0ab-4b8fd0280782" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/42a16c6a-0f97-40bd-9bf8-0ab96b2a4d2b" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/c92302d3-a162-461a-8580-3b1f1bf18499" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/6bb7d359-551e-46d8-b0ab-4b8fd0280782" />
 
 ### dress boutique in the mall
-<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/44e29d7f-9f29-4558-9699-5b715ce8e057" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/44e29d7f-9f29-4558-9699-5b715ce8e057" />
 
 ### S2: Outdoor Courtyard restaurant
 ### S3: Outside Elle's Door
 
-### Split between Elle Studdying and "Grandmaster's Chad Extreme Party"
-<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/55e39274-37bc-4324-a4c8-f3cfe4ad4b57" />
+### Split between Elle Studying and "Grandmaster's Chad Extreme Party"
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/55e39274-37bc-4324-a4c8-f3cfe4ad4b57" />
 
 
 ### Harvard Admissions Board/Meeting Room
 ### Harvard Essay Chant
 
 ### S4: Callahan's Classroom
-<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/e66f993a-fd02-48a5-85cb-750507e34f5b" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/e66f993a-fd02-48a5-85cb-750507e34f5b" />
   – Seated
 ### S5: Outside the classroom
 
   - Elle is kicked out of the classroom. Emmet Follows
   
 ### S6: Salon
-<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/5a157047-9803-4fa9-830a-88750923d176" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/5a157047-9803-4fa9-830a-88750923d176" />
 
   - Photo of rufus the dog
 ### S7: Harvard Law Party  
-<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/49cb713c-3a12-4c2f-9aac-c949f0956a21" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/49cb713c-3a12-4c2f-9aac-c949f0956a21" />
 
 ### S8: Outside the Law Party
-<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/22b87451-bbb3-4f6d-9acd-673c4aa9d697" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/22b87451-bbb3-4f6d-9acd-673c4aa9d697" />
 
 
 
