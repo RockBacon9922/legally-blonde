@@ -58,8 +58,11 @@
 - Kyle walking rufus in
 - Vivienne reveals herself from beneath a hair dryer, overheard this.
 
-### S14: 
+### S14: Courtroom 
+- Bucket of water
 
+### Grauation Ceremony
+  Banner "Congratulations Class Of 2009"
 
 ## Characters
 
