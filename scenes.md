@@ -10,6 +10,7 @@
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/42a16c6a-0f97-40bd-9bf8-0ab96b2a4d2b" />
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/c92302d3-a162-461a-8580-3b1f1bf18499" />
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/6bb7d359-551e-46d8-b0ab-4b8fd0280782" />
+- Bruiser (Dog) Sequence
 
 ### dress boutique in the mall
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/44e29d7f-9f29-4558-9699-5b715ce8e057" />
@@ -18,9 +19,9 @@
 
 
 
-
 ### S2: Outdoor Courtyard restaurant
 <img height="200" alt="Screenshot 2026-09-23 at 15 39 06" src="https://github.com/user-attachments/assets/a07788c8-08e2-463e-9b80-898556be651c" />
+
 
 ### S3: Outside Elle's Door
 
