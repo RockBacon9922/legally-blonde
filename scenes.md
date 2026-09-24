@@ -67,7 +67,10 @@
 
 
 ### this includes so much better
-  -- Elle Woods in letters at the end of act 1
+<img height="200" alt="Screenshot 2026-09-24 at 10 46 00" src="https://github.com/user-attachments/assets/5f040360-589f-443a-8324-8d42b86e03a7" />
+
+- Elle Woods in letters at the end of act 1
+
 
 ### S10: Whipped into Shape
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/5f2a38d0-7a91-4b75-a587-ba1c953cc8fb" />
